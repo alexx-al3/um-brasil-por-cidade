@@ -1,0 +1,16 @@
+{
+  "cidades": [
+    {
+      "nome": "Oiapoque - AP",
+      "descricao": "Extremo norte do Brasil, início da jornada.",
+      "lat": 3.84,
+      "lng": -51.83
+    },
+    {
+      "nome": "Chuí - RS",
+      "descricao": "Extremo sul do Brasil, fim da jornada.",
+      "lat": -33.69,
+      "lng": -53.46
+    }
+  ]
+}
